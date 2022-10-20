@@ -16,3 +16,6 @@ The data used in this project was scraped and curated from Wikipedia. The data s
 Python was used for this project including the following packages:
 – Pandas to analyze the data
 – Matplotlib & Seaborn to visualize the data
+
+# Link to project
+[TV Ratings & Ad Cost Data Analtics](https://www.analyticdojo.com/tv-ratings-ad-costs-data-analytics/)
