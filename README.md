@@ -18,4 +18,4 @@ Python was used for this project including the following packages:
 – Matplotlib & Seaborn to visualize the data
 
 # Link to project
-[TV Ratings & Ad Cost Data Analtics](https://www.analyticdojo.com/tv-ratings-ad-costs-data-analytics/)
+[TV Ratings & Ad Cost Data Analytics](https://www.analyticdojo.com/tv-ratings-ad-costs-data-analytics/)
