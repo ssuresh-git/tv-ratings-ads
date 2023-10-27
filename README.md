@@ -1,4 +1,4 @@
-# TV Ratings & Ad Cost Data Analtics
+# TV Ratings & Ad Cost Data Analytics
  This data science project analyzes Super Bowl game data, TV ratings, and ad costs. The purpose is to gain insight into the following questions:
 
 1. What are the most extreme game outcomes?
